@@ -1,1 +1,2 @@
 # MusicApp
+<img src="https://user-images.githubusercontent.com/92275173/214077817-b9299476-9b21-430b-8c63-ce7da86985e0.png" height="500" width="250" > <img src="https://user-images.githubusercontent.com/92275173/214077799-4cebac89-3a55-47ee-b6bf-f7915476394e.png" height="500" width="250" > <img src="https://user-images.githubusercontent.com/92275173/214077682-8a44f1bc-d013-4d13-ae77-d8b4d69d19ed.png" height="500" width="250" >
